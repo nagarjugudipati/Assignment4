@@ -1,0 +1,8 @@
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\bin\Debug\ConAppAssignment4.exe.config
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\bin\Debug\ConAppAssignment4.exe
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\bin\Debug\ConAppAssignment4.pdb
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\obj\Debug\ConAppAssignment4.csproj.AssemblyReference.cache
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\obj\Debug\ConAppAssignment4.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\obj\Debug\ConAppAssignment4.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\obj\Debug\ConAppAssignment4.exe
+D:\Mphasis\Day-4\ConAppAssignment4\ConAppAssignment4\obj\Debug\ConAppAssignment4.pdb
